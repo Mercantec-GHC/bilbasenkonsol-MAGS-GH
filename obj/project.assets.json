@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\BilbasenKonsol.csproj",
+      "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\bilbasenkonsol-MAGS-GH\\BilbasenKonsol.csproj",
       "projectName": "BilbasenKonsol",
-      "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\BilbasenKonsol.csproj",
+      "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\bilbasenkonsol-MAGS-GH\\BilbasenKonsol.csproj",
       "packagesPath": "C:\\Users\\MAGS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\obj\\",
+      "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\bilbasenkonsol-MAGS-GH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
